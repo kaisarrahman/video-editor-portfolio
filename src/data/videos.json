@@ -1,0 +1,89 @@
+{
+  "metrics": [
+    {
+      "value": 13,
+      "suffix": "M+",
+      "label": "Total Organic Views"
+    },
+    {
+      "value": 108,
+      "suffix": "+",
+      "label": "Projects Delivered"
+    },
+    {
+      "value": 65,
+      "suffix": "%",
+      "label": "Avg. Audience Retention"
+    },
+    {
+      "value": 27,
+      "suffix": "+",
+      "label": "Happy Clients"
+    }
+  ],
+  "longForm": [
+    {
+      "id": "6bc5H4CtC9w",
+      "title": "High-Retention AI Masterclass",
+      "category": "AI Business Strategy",
+      "views": "443K"
+    },
+    {
+      "id": "A8_nNYLTXEQ",
+      "title": "Cinematic Deep Dive Format",
+      "category": "Advanced Productivity",
+      "views": "1M"
+    },
+    {
+      "id": "npQ2IORdlvU",
+      "title": "Authoritative Value Transfer",
+      "category": "Accelerated Learning",
+      "views": "3.3M"
+    },
+    {
+      "id": "sCc7O9K92Mg",
+      "title": "Advanced AI Motion Graphics",
+      "category": "VFX & Compositing",
+      "views": "34K"
+    }
+  ],
+  "shortForm": [
+    {
+      "id": "jYwhVcSTDcI",
+      "title": "Contrarian Framework Hooks",
+      "views": "17K"
+    },
+    {
+      "id": "ENvNEDJ1Nr4",
+      "title": "SaaS Growth Case Study",
+      "views": "20K"
+    },
+    {
+      "id": "z33MQOU-G1s",
+      "title": "Reels Educational Hook",
+      "views": "43K"
+    },
+    {
+      "id": "3pBFd9odNr8",
+      "title": "AI Market Reality Check",
+      "views": "14K"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Kaisar's editing completely transformed my channel's retention rate. The pacing is flawless, and the visual storytelling keeps viewers hooked until the very end.",
+      "author": "theMITmonk",
+      "role": "YouTube Creator"
+    },
+    {
+      "quote": "Working with Kaisar elevated our entire brand identity. The cinematic quality and attention to detail in every cut is unmatched. Highly recommended for any serious business.",
+      "author": "Asifur Rahman",
+      "role": "Founder, adventurebd"
+    },
+    {
+      "quote": "We saw an immediate spike in conversions after switching to Kaisar's edits. The edits are modern, dynamic, and perfectly optimized for our target audience.",
+      "author": "eform",
+      "role": "Tech Brand"
+    }
+  ]
+}
