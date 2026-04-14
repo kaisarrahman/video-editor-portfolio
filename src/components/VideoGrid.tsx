@@ -35,7 +35,7 @@ export default function VideoGrid() {
             <div className="grid grid-cols-1 md:grid-cols-12 gap-6 group/grid">
                 {videos.map((video, index) => {
                     const isPlaying = activeVideoId === video.id;
-                    const colSpan = (index === 0 || index === 3 || index === 4) ? "md:col-span-8" : "md:col-span-4";
+                    const colSpan = (index === 0 || index === 3 || index === 4 || index === 7) ? "md:col-span-8" : "md:col-span-4";
 
                     return (
                         <motion.div
@@ -92,7 +92,7 @@ export default function VideoGrid() {
                                         </span>
                                     </div>
                                 </div>
-                                <h3 className={`font-instrument text-[#EFECE6]/90 group-hover/card:text-white transition-colors cursor-none ${index === 0 || index === 3 || index === 4 ? "text-3xl md:text-5xl" : "text-2xl md:text-3xl"}`} onClick={() => setActiveVideoId(video.id)}>
+                                <h3 className={`font-instrument text-[#EFECE6]/90 group-hover/card:text-white transition-colors cursor-none ${index === 0 || index === 3 || index === 4 || index === 7 ? "text-3xl md:text-5xl" : "text-2xl md:text-3xl"}`} onClick={() => setActiveVideoId(video.id)}>
                                     {video.title}
                                 </h3>
                             </div>
